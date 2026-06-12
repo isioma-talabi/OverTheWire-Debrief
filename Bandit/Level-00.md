@@ -1,4 +1,4 @@
-#Level Goal:
+# Level Goal:
 
 The mission if you choose to accept is for you to log into the game using SSH. 
 The host to which you need to connect is bandit.labs.overthewire.org, on port 2220. 
